@@ -1,4 +1,4 @@
-enum Sttatus{
+enum StatusServer{
   LOADING,
   COMPLETED,
   ERROR
