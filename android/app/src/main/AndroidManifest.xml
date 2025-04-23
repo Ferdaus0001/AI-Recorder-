@@ -6,7 +6,7 @@
 
 
     <application
-        android:label="rest_apis_porject"
+        android:label="AI Recorder"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
